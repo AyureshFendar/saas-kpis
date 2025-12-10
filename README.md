@@ -7,8 +7,18 @@ It simulates realistic SaaS subscription data, processes it via a Python ETL pip
 This project demonstrates strong skills in **data modeling, SQL analytics, Python scripting, KPI computation, and BI dashboarding**—similar to the expectations of SaaS FP&A and analytics platforms like **Drivetrain**.
 
 ---
+## Dashboard Preview
 
-## 📊 Key Features
+![Dashboard Screenshot](img/2.png)
+
+## Key Visuals Included
+- MRR Over Time  
+- Customer Churn Trend  
+- Revenue Churn  
+- Net Revenue Retention (NRR)  
+- Lifetime Value (LTV) by Segment  
+- Cohort Retention Heatmap  
+## Key Features
 
 ### ✅ **1. Data Pipeline (Python ETL)**
 - Loads CSV data (customers, subscriptions, transactions)
