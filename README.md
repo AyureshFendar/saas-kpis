@@ -77,12 +77,11 @@ saas-kpis/
 
 ## ETL Architecture
 
-```mermaid
-flowchart TD
+Flowchart TD
 
-<img src="img\1.png" width="800">
+![Dashboard Screenshot](img/1.png)
 
-```
+
 
 ## Power BI Dashboard (KPIs Included)
    
@@ -202,3 +201,4 @@ This project was built as a learning and interview-preparation exercise with ins
 
 
 ---
+
