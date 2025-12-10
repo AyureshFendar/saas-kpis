@@ -12,16 +12,6 @@ venv/
 # VSCode settings
 .vscode/
 *.code-workspace
-
-# SQLite database
-*.db
-
-# Power BI report files
-*.pbix
-
-# Data outputs (generated CSVs)
-*.csv
-
 # Logs
 *.log
 

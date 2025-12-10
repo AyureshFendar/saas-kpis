@@ -1,0 +1,3 @@
+plan,active_customers,churned_customers,ARPU,churn_rate,LTV
+enterprise,1,1,49.0,1.0,49.0
+starter,4,1,66.5,0.25,266.0

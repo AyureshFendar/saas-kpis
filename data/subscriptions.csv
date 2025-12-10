@@ -1,0 +1,11 @@
+subscription_id,customer_id,start_date,end_date,monthly_price,status
+S001,C001,2024-01-01,2024-03-15,49,active
+S002,C002,2024-01-08,,99,active
+S003,C003,2024-01-15,2024-04-12,49,active
+S004,C004,2024-01-22,,49,active
+S005,C005,2024-01-29,2024-05-05,49,active
+S006,C006,2024-02-05,,99,active
+S007,C007,2024-02-12,2024-04-14,99,active
+S008,C008,2024-02-19,,49,active
+S009,C009,2024-02-26,,19,active
+S010,C010,2024-03-04,2024-06-10,49,active
