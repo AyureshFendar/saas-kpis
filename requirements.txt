@@ -1,0 +1,4 @@
+pandas==2.2.1
+sqlalchemy==2.0.29
+numpy==1.26.4
+python-dateutil==2.9.0
