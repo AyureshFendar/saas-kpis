@@ -1,5 +1,31 @@
+<div align="center">
 
-# SaaS KPI Analytics Platform (Python + SQL + Power BI)
+<h1>📊 SaaS KPI Analytics Platform</h1>
+
+<p><b>Python → SQL → ETL Pipeline → KPI Engine → Power BI Dashboard</b></p>
+
+<img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/ETL-Automation-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/SQLite-Database-lightgrey?style=for-the-badge">
+<img src="https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=for-the-badge">
+<img src="https://img.shields.io/badge/SaaS-MRR%2C%20Churn%2C%20NRR-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data--Driven-Insights-success?style=for-the-badge">
+
+<br><br>
+
+<h3>Developed By</h3>
+<h2><b>Ayuresh Anil Fendar</b></h2>
+<h4>📌 Data Engineer | Analytics | ETL Pipelines</h4>
+
+<a href="mailto:ayureshfendar2003@gmail.com">
+<img src="https://img.shields.io/badge/Email-ayureshfendar2003%40gmail.com-red?style=for-the-badge">
+</a>
+
+</div>
+
+
+
+## Goal
 
 This project is an end-to-end analytics system for SaaS financial metrics such as **MRR, ARR, Churn, NRR, Customer Retention, and LTV**.  
 It simulates realistic SaaS subscription data, processes it via a Python ETL pipeline, stores it in SQLite, calculates KPIs using SQL, and visualizes insights in **Power BI**.
